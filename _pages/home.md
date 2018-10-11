@@ -4,10 +4,10 @@ permalink: /
 ---
 
 # Robert Ulbricht
-Assistant Professor of Economics \\
+Assistant Professor of Economics \ \
 Toulouse School of Economics
 
-**Phone:** +33 (561) 128-771 \\
+**Phone:** +33 (561) 128-771 \ \
 **Email:** robert.ulbricht@tse-fr.eu
 
 **Office:** MF 507
