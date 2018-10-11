@@ -1,9 +1,18 @@
 ---
-title: "Working with Pages"
+title: "home"
 permalink: /
-excerpt: "Suggestions and Front Matter defaults for working with pages."
-last_modified_at: 2016-11-03T11:13:12-04:00
 ---
 
+# Robert Ulbricht
+Assistant Professor of Economics
+Toulouse School of Economics
 
-## this is the landing page
+**Phone:** +33 (561) 128-771
+**Email:** robert.ulbricht@tse-fr.eu
+
+**Office:** MF 507
+
+**Address:**
+Manufacture de Tabacs
+21 allées de Brienne
+31015 Toulouse, France
