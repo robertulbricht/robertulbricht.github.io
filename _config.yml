@@ -20,7 +20,7 @@ include:
 #  - _pages/research.md
 
 markdown: kramdown
-kramdown:
+kramdown: > # ignore this
   input: GFM # github flavoured markdown
 
 plugins: > # ignore this
