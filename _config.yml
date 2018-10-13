@@ -12,7 +12,7 @@ remote_theme: jekyll/minima
 
 # Reading Files
 include:
-  - .htaccess
+#  - .htaccess
   - _pages
 
 # header_pages:
@@ -20,6 +20,8 @@ include:
 #  - _pages/research.md
 
 markdown: kramdown
+kramdown:
+  input: GFM # github flavoured markdown
 
 plugins: > # ignore this
  - jekyll-seo-tag
