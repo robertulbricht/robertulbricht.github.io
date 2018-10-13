@@ -12,7 +12,7 @@ remote_theme: jekyll/minima
 
 # Reading Files
 include:
-#  - .htaccess
+  - .htaccess
   - _pages
 
 # header_pages:
