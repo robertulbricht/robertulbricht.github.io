@@ -16,8 +16,8 @@ include:
   - _pages
 
 # header_pages:
-#  - home.md
-#  - research.md
+#  - _pages/home.md
+#  - _pages/research.md
 
 markdown: kramdown
 
