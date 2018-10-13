@@ -1,46 +1,25 @@
-# theme: jekyll-theme-minimal
+title: Website Title
+author: GitHub User
+email: your-email@domain.com
+description: > # this means to ignore newlines until "twitter_username:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
 remote_theme: jekyll/minima
-# title: home page of xxx
-# markdown: kramdown
-
-# Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
-title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-
-
-# header_pages:
-#  - research.md
-#  - portfolio.md
-
 
 # Reading Files
 include:
   - .htaccess
   - _pages
 
+# header_pages:
+#  - research.md
+#  - index.md
 
-
-# Conversion
 markdown: kramdown
-highlighter: rouge
 
-
-
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
-compress_html:
-  clippings: all
-  ignore:
-
+plugins: > # ignore this
+ - jekyll-seo-tag
